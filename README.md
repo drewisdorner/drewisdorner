@@ -1,6 +1,6 @@
 👋 Hi, I’m @drewisdorner
 
-👀 I’m interested in CI/CD, OpenShift/K8S and GO
+👀 I’m interested in CI/CD, OpenShift/K8S and Rust
 
 🌱 I’m currently learning for my RedHat Certified System Administrator
 
